@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+*.DS_Store
+
+# Environment variables
+.env
+
+# Large video files (not to be tracked)
+*.mp4
