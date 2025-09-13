@@ -1,0 +1,17 @@
+name: Task
+description: General project task
+title: "[TASK] "
+labels: [feat]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Task Summary
+      description: Short description of the task
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Add more details or requirements
