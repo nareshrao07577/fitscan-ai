@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy
+pandas
+pytest
+# ultralytics  # temporarily removed for CI; add back later when we have proper GPU/torch setup
