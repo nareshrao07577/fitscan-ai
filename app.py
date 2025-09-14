@@ -82,3 +82,5 @@ if run_webcam:
     st.write("Badges:", badges)
 else:
     st.info("Toggle 'Start webcam smoke test' to run the demo.")
+
+
